@@ -16,6 +16,7 @@
 import chat_form from "./components/chat_form.vue";
 import chat_message from "./components/chat_message.vue";
 
+
 export default {
 	name: "app",
 	components: {
@@ -62,5 +63,9 @@ export default {
 		position: fixed;
 		width: 100%;
 		bottom: 0px;
+		right: 0px;
+		justify-content: flex-end;
 	}
+
+	
 </style>

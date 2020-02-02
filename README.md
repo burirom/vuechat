@@ -1,4 +1,8 @@
-# vuechat
+# vuebotchat
+
+botと会話ができるApp
+
+# Run
 
 ## Project setup
 ```
@@ -22,3 +26,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# vuebotchat
+
+
+# Author
+
+* 作成者:Yasuhide Nomura 
+* E-mail:burirom1002@gmail.com
+* サイトリンク: https://gallant-allen-cb1703.netlify.com
+

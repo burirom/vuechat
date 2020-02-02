@@ -11,11 +11,7 @@
 export default {
 	data() {
 		return {
-//			img_src:function(){
-//				
-//				return require('../assets/bot.jpeg');
-//			}
-//			img_src:require('../assets/.jpeg')
+
 			
 		};
 	},
